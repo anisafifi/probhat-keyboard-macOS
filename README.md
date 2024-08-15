@@ -1,8 +1,8 @@
 # Probhat keyboard layout for macOS
 
-The Probhat layout is redesigned by [Ankur](http://www.ankurbangla.org). Most of the Linux distro are including this layout with their latest releases. And it has been real easy using Probhat on Windows using Avro.
+The Probhat layout is redesigned by [Anis Afifi](http://anisafifi.com). Most of the Linux distro are including this layout with their latest releases. And it has been real easy using Probhat on Windows using Avro.
 
-Since OS X supports custom keylaout files, I created this layout based on the original Probhat layout.
+Since macOS supports custom keylaout files, I created this layout based on the original Probhat layout.
 
 There may have been similar Probhat keylaouts around there, but this one supports OS X actions using the following hotkeys.
 
